@@ -13,7 +13,7 @@ Please see [GitHub's documentation](https://docs.github.com/en/code-security/sup
 Specifically, for our default list, you will be including the following:
 
 ```
-    config-file: 'github/amazon-ospo/default/dependency-review-config.yml@main'
+    config-file: 'github/amazon-ospo/dependency-review-config/default/dependency-review-config.yml@main'
 ```
 
 ## Security
