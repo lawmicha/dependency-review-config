@@ -18,6 +18,7 @@ allow-licenses:
   - PDDL-1.0
   - PostgreSQL
   - Python-2.0
+  - Ruby
   - Spencer-94
   - Unicode-DFS-2015
   - Unicode-DFS-2016
